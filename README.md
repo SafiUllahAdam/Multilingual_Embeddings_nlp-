@@ -7,7 +7,7 @@ Exploration and comparison of word embeddings for English and French, including 
 
 ## Project Overview
 
-This project builds and aligns English and French word embeddings into a shared semantic space. The aligned embeddings are analyzed linguistically and evaluated through a downstream classification task.
+This project builds and aligns English and French word embeddings into a shared semantic space. The aligned embeddings are analyzed linguistically and evaluated through a downstream classification task to check and verify/predict correct language of each sentence.
 
 ---
 
