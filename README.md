@@ -24,7 +24,7 @@ project/
 ├── 01_workflow.ipynb            # Main Colab notebook (run all cells)
 ├── results_summary.json         # Alignment, analysis & classifier metrics
 ├── en-fr.txt                    # MUSE bilingual dictionary used for alignment
-├── NLP_Assignment1_Report.pdf   # Final report (main deliverable)
+├── ADAM_Proj_Report             # Final report (main deliverable)
 ├── requirements.txt             # All libraries and requirements to install
 └── README.md                    # Project documentation
 ```
