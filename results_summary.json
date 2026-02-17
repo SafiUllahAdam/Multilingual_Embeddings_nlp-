@@ -1,0 +1,45 @@
+{
+  "alignment_metrics": null,
+  "synonym_antonym": {
+    "mean_synonym_similarity": 0.7233654061953226,
+    "mean_antonym_similarity": 0.773671011130015,
+    "synonym_antonym_gap": -0.05030560493469238,
+    "n_syn_pairs_used": 3,
+    "n_ant_pairs_used": 3
+  },
+  "common_words": {
+    "mean_cosine": 0.5698520251829177,
+    "n_pairs": 500
+  },
+  "polysemy": {
+    "word": "bank",
+    "sense_similarities": [
+      {
+        "sense": "financial",
+        "example": "money",
+        "similarity": 0.5866652131080627
+      },
+      {
+        "sense": "river",
+        "example": "water",
+        "similarity": 0.6614370942115784
+      },
+      {
+        "sense": "financial",
+        "example": "account",
+        "similarity": 0.6293442845344543
+      }
+    ]
+  },
+  "oov_coverage": {
+    "total_tokens": 6110102,
+    "unique_tokens": 73027,
+    "fasttext_coverage": 0.9957490071360511
+  },
+  "classifier_metrics": {
+    "accuracy": 0.9706024489225555,
+    "precision": 0.9725779103081331,
+    "recall": 0.9685120059622238,
+    "f1": 0.9705406998115398
+  }
+}
